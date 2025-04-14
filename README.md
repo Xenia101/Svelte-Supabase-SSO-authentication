@@ -1,4 +1,4 @@
-# SvelteKit-Supabase SSO Authentication Example
+<img src="images/Svelte-Supabase-SSO-authentication.png"/>
 
 This is an example project implementing Google and Kakao social login functionality using Supabase and SvelteKit.
 
